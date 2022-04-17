@@ -51,7 +51,7 @@ body{
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%, rgba(0,0,0,1) 100%);
 }`
 
-let string2 = []
+let string2 = "";
 // setInterval(()=>{
 //     n=n+1;
 //     demo.innerHTML = n;
